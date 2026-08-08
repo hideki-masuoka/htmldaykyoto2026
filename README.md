@@ -1,6 +1,12 @@
 # HTML Day 2026 Kyotoでの成果物です
 
-[HTML Day 2026 Kyoto](https://htmldaykyoto.neocities.org/)
+- 公開ページ
+  - [Welcome to fkuMnk World ...](https://hideki-masuoka.github.io/htmldaykyoto2026/index.html)
+---
+<br>
+    
+> 2026年8月8日(土) <br/>
+> [HTML Day 2026 Kyoto](https://htmldaykyoto.neocities.org/)
 
 ## 目的
 
@@ -20,3 +26,5 @@
 ## 公開
 
 GitHubPagesの利用を想定しています
+
+[Welcome to fkuMnk World ...](https://hideki-masuoka.github.io/htmldaykyoto2026/index.html)
